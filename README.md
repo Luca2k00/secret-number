@@ -1,6 +1,6 @@
 # ABOUT
-*I created a game where we need to guess the secret number*  
+* *I created a game where we need to guess the secret number*  
 
 
 # LANGUAGES
-* HTML / CSS / JAVASCRIPT
+ * * HTML / CSS / JAVASCRIPT *
