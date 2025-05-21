@@ -3,4 +3,8 @@
 
 
 # LANGUAGES
-GET /badge/:badgeContent
+
+HTML
+HTML
+CSS
+CSS
