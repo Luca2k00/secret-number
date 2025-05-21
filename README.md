@@ -3,4 +3,4 @@
 
 
 # LANGUAGES
-* HTML / CSS / JAVASCRIPT
+(https://img.shields.io/badge/HTML-CSS-JAVASCRIPT)
